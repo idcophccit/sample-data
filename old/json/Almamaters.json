@@ -1,0 +1,338 @@
+[
+    {
+        "Id": 1,
+        "Name": "SMK Negeri 6",
+        "RegencyId": "3372",
+        "ProgramStudy": "Administrasi Perkantoran",
+        "Level": "SMA"
+    },
+    {
+        "Id": 2,
+        "Name": "Akademi Perekam Medik dan Informatika Kesehatan Citra Medika",
+        "RegencyId": "3372",
+        "ProgramStudy": "Rekam Medis dan Informasi Kesehatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 3,
+        "Name": "SMK Pancasila",
+        "RegencyId": "3312",
+        "ProgramStudy": "Akuntansi",
+        "Level": "SMA"
+    },
+    {
+        "Id": 4,
+        "Name": "SMK Batik 2",
+        "RegencyId": "3372",
+        "ProgramStudy": "Akuntansi",
+        "Level": "SMA"
+    },
+    {
+        "Id": 5,
+        "Name": "SMA Negeri 8",
+        "RegencyId": "3372",
+        "ProgramStudy": "IPS",
+        "Level": "SMA"
+    },
+    {
+        "Id": 6,
+        "Name": "Universitas Trisakti",
+        "RegencyId": "3174",
+        "ProgramStudy": "Pendidikan Dokter",
+        "Level": "S1"
+    },
+    {
+        "Id": 7,
+        "Name": "Akademi Keperawatan PKU Muhammadiyah",
+        "RegencyId": "3372",
+        "ProgramStudy": "Keperawatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 8,
+        "Name": "Akademi Keperawatan Panti Kosala",
+        "RegencyId": "3372",
+        "ProgramStudy": "Keperawatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 9,
+        "Name": "Akademi Keperawatan Mamba'ul 'Ulum",
+        "RegencyId": "3372",
+        "ProgramStudy": "Keperawatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 10,
+        "Name": "Universitas Setia Budi",
+        "RegencyId": "3372",
+        "ProgramStudy": "Farmasi",
+        "Level": "D3"
+    },
+    {
+        "Id": 11,
+        "Name": "STM Negeri Tunjungan",
+        "RegencyId": "3316",
+        "ProgramStudy": "Teknik Listrik",
+        "Level": "SMA"
+    },
+    {
+        "Id": 12,
+        "Name": "Universitas Islam Indonesia",
+        "RegencyId": "3471",
+        "ProgramStudy": "Ekonomi Manajemen",
+        "Level": "S1"
+    },
+    {
+        "Id": 13,
+        "Name": "SMK Farmasi Nasional",
+        "RegencyId": "3372",
+        "ProgramStudy": "Farmasi ",
+        "Level": "SMA"
+    },
+    {
+        "Id": 14,
+        "Name": "SMA Widya Bhakti",
+        "RegencyId": "3372",
+        "ProgramStudy": "IPS",
+        "Level": "SMA"
+    },
+    {
+        "Id": 15,
+        "Name": "Akademi Kebidanan Citra Medika",
+        "RegencyId": "3372",
+        "ProgramStudy": "Kebidanan",
+        "Level": "D3"
+    },
+    {
+        "Id": 16,
+        "Name": "Sekolah Tinggi Ilmu Kesehatan Muhammadiyah",
+        "RegencyId": "3310",
+        "ProgramStudy": "Kebidanan",
+        "Level": "D3"
+    },
+    {
+        "Id": 17,
+        "Name": "SMK Muhammadiyah 4",
+        "RegencyId": "3372",
+        "ProgramStudy": "Farmasi",
+        "Level": "SMA"
+    },
+    {
+        "Id": 18,
+        "Name": "SMK Pancasila 4",
+        "RegencyId": "3312",
+        "ProgramStudy": "Akuntansi",
+        "Level": "SMA"
+    },
+    {
+        "Id": 19,
+        "Name": "SMK PGRI 1",
+        "RegencyId": "3372",
+        "ProgramStudy": "IPS",
+        "Level": "SMA"
+    },
+    {
+        "Id": 20,
+        "Name": "Sekolah Tinggi Ilmu Kesehatan Kusuma Husada",
+        "RegencyId": "3372",
+        "ProgramStudy": "Keperawatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 21,
+        "Name": "Sekolah Tinggi Manajemen Informasi Komputer Sinar Nusantara",
+        "RegencyId": "3372",
+        "PRDDI": "Komputerisasi Akuntansi",
+        "Level": "D3"
+    },
+    {
+        "Id": 22,
+        "Name": "Sekolah Tinggi Ilmu Ekonomi St. Pignatelli",
+        "RegencyId": "3372",
+        "ProgramStudy": "Ekonomi",
+        "Level": "S1"
+    },
+    {
+        "Id": 23,
+        "Name": "SMAN 4",
+        "RegencyId": "3273",
+        "ProgramStudy": "IPA",
+        "Level": "SMA"
+    },
+    {
+        "Id": 24,
+        "Name": "SMK Adi Sumarmo",
+        "RegencyId": "3372",
+        "ProgramStudy": "",
+        "Level": "SMA"
+    },
+    {
+        "Id": 25,
+        "Name": "Akademi Keperawatan PPNI",
+        "RegencyId": "3372",
+        "ProgramStudy": "Keperawatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 26,
+        "Name": "Sekolah Tinggi Ilmu Kesehatan 'Aisyiyah",
+        "RegencyId": "3372",
+        "ProgramStudy": "Kebidanan",
+        "Level": "D3"
+    },
+    {
+        "Id": 27,
+        "Name": "Akademi Keperawatan YAPPI",
+        "RegencyId": "3314",
+        "ProgramStudy": "Keperawatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 28,
+        "Name": "Akademi Kebidanan Mamba'ul 'Ulum",
+        "RegencyId": "3372",
+        "ProgramStudy": "Kebidanan",
+        "Level": "D3"
+    },
+    {
+        "Id": 29,
+        "Name": "Universitas Gadjah Mada",
+        "RegencyId": "3471",
+        "ProgramStudy": "Psikologi",
+        "Level": "S1"
+    },
+    {
+        "Id": 30,
+        "Name": "Akademi Keperawatan Tujuh Belas",
+        "RegencyId": "3313",
+        "ProgramStudy": "Keperawatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 31,
+        "Name": "Universitas Ahmad Dahlan",
+        "RegencyId": "3471",
+        "ProgramStudy": "Farmasi",
+        "Level": "S1"
+    },
+    {
+        "Id": 32,
+        "Name": "BPLD Ksatriyan",
+        "RegencyId": "3372",
+        "ProgramStudy": "",
+        "Level": "N/A"
+    },
+    {
+        "Id": 33,
+        "Name": "Akademi Analis Kesehatan Nasional",
+        "RegencyId": "3372",
+        "ProgramStudy": "Analis Kesehatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 34,
+        "Name": "Universitas Setia Budi",
+        "RegencyId": "3372",
+        "ProgramStudy": "Analis Kesehatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 35,
+        "Name": "Sekolah Tinggi Ilmu Kesehatan Nasional",
+        "RegencyId": "3372",
+        "ProgramStudy": "Farmasi",
+        "Level": "D3"
+    },
+    {
+        "Id": 36,
+        "Name": "STM Pancasila",
+        "RegencyId": "3372",
+        "ProgramStudy": "Farmasi",
+        "Level": "SMA"
+    },
+    {
+        "Id": 37,
+        "Name": "Politeknik Kesehatan Kementrian Kesehatan",
+        "RegencyId": "3372",
+        "ProgramStudy": "Keperawatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 38,
+        "Name": "SMPN 14",
+        "RegencyId": "3372",
+        "ProgramStudy": "N/A",
+        "Level": "N/A"
+    },
+    {
+        "Id": 39,
+        "Name": "Universitas Muhammadiyah",
+        "RegencyId": "3372",
+        "ProgramStudy": "Pendidikan Akuntansi",
+        "Level": "S1"
+    },
+    {
+        "Id": 40,
+        "Name": "Politeknik Kesehatan Bhakti Mulia",
+        "RegencyId": "3372",
+        "ProgramStudy": "Keperawatan",
+        "Level": "D3"
+    },
+    {
+        "Id": 41,
+        "Name": "SMK Muhammadiyah 3 Gemolong",
+        "RegencyId": "3314",
+        "ProgramStudy": "Keuangan Akuntansi",
+        "Level": "SMA"
+    },
+    {
+        "Id": 42,
+        "Name": "SMK Kristen 2",
+        "RegencyId": "3314",
+        "ProgramStudy": "Otomotif",
+        "Level": "SMA"
+    },
+    {
+        "Id": 43,
+        "Name": "SD 03 Sidomulyo",
+        "RegencyId": "3306",
+        "ProgramStudy": "N/A",
+        "Level": "N/A"
+    },
+    {
+        "Id": 44,
+        "Name": "Universitas Islam Batik",
+        "RegencyId": "3372",
+        "ProgramStudy": "Ekonomi Akuntansi",
+        "Level": "S1"
+    },
+    {
+        "Id": 45,
+        "Name": "SMK Teknik Komputer",
+        "RegencyId": "3372",
+        "ProgramStudy": "Teknik Komputer",
+        "Level": "SMA"
+    },
+    {
+        "Id": 46,
+        "Name": "Universitas Slamet Riyadi",
+        "RegencyId": "3372",
+        "ProgramStudy": "Manajemen Ekonomi",
+        "Level": "S1"
+    },
+    {
+        "Id": 47,
+        "Name": "SMA Bangun Tapan",
+        "RegencyId": "3471",
+        "ProgramStudy": "IPA",
+        "Level": "SMA"
+    },
+    {
+        "Id": 48,
+        "Name": "UMS",
+        "RegencyId": "3372",
+        "ProgramStudy": "Keperawatan",
+        "Level": "S1"
+    }
+]

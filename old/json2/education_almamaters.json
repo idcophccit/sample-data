@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "name": "SMK Negeri 6",
+        "regency_id": "3372",
+        "program_of_study": "Administrasi Perkantoran",
+        "level": "SMA"
+    },
+    {
+        "id": 2,
+        "name": "Akademi Perekam Medik dan Informatika Kesehatan Citra Medika",
+        "regency_id": "3372",
+        "program_of_study": "Rekam Medis dan Informasi Kesehatan",
+        "level": "D3"
+    },
+    {
+        "id": 3,
+        "name": "SMK Pancasila",
+        "regency_id": "3312",
+        "program_of_study": "Akuntansi",
+        "level": "SMA"
+    },
+    {
+        "id": 4,
+        "name": "SMK Batik 2",
+        "regency_id": "3372",
+        "program_of_study": "Akuntansi",
+        "level": "SMA"
+    },
+    {
+        "id": 5,
+        "name": "SMA Negeri 8",
+        "regency_id": "3372",
+        "program_of_study": "IPS",
+        "level": "SMA"
+    },
+    {
+        "id": 6,
+        "name": "Universitas Trisakti",
+        "regency_id": "3174",
+        "program_of_study": "Pendidikan Dokter",
+        "level": "S1"
+    },
+    {
+        "id": 7,
+        "name": "Akademi Keperawatan PKU Muhammadiyah",
+        "regency_id": "3372",
+        "program_of_study": "Keperawatan",
+        "level": "D3"
+    },
+    {
+        "id": 8,
+        "name": "Akademi Keperawatan Panti Kosala",
+        "regency_id": "3372",
+        "program_of_study": "Keperawatan",
+        "level": "D3"
+    },
+    {
+        "id": 9,
+        "name": "Akademi Keperawatan Mamba'ul 'Ulum",
+        "regency_id": "3372",
+        "program_of_study": "Keperawatan",
+        "level": "D3"
+    },
+    {
+        "id": 10,
+        "name": "Universitas Setia Budi",
+        "regency_id": "3372",
+        "program_of_study": "Farmasi",
+        "level": "D3"
+    },
+    {
+        "id": 11,
+        "name": "STM Negeri Tunjungan",
+        "regency_id": "3316",
+        "program_of_study": "Teknik Listrik",
+        "level": "SMA"
+    },
+    {
+        "id": 12,
+        "name": "Universitas Islam Indonesia",
+        "regency_id": "3471",
+        "program_of_study": "Ekonomi Manajemen",
+        "level": "S1"
+    },
+    {
+        "id": 13,
+        "name": "SMK Farmasi Nasional",
+        "regency_id": "3372",
+        "program_of_study": "Farmasi ",
+        "level": "SMA"
+    },
+    {
+        "id": 14,
+        "name": "SMA Widya Bhakti",
+        "regency_id": "3372",
+        "program_of_study": "IPS",
+        "level": "SMA"
+    },
+    {
+        "id": 15,
+        "name": "Akademi Kebidanan Citra Medika",
+        "regency_id": "3372",
+        "program_of_study": "Kebidanan",
+        "level": "D3"
+    },
+    {
+        "id": 16,
+        "name": "Sekolah Tinggi Ilmu Kesehatan Muhammadiyah",
+        "regency_id": "3310",
+        "program_of_study": "Kebidanan",
+        "level": "D3"
+    },
+    {
+        "id": 17,
+        "name": "SMK Muhammadiyah 4",
+        "regency_id": "3372",
+        "program_of_study": "Farmasi",
+        "level": "SMA"
+    },
+    {
+        "id": 18,
+        "name": "SMK Pancasila 4",
+        "regency_id": "3312",
+        "program_of_study": "Akuntansi",
+        "level": "SMA"
+    },
+    {
+        "id": 19,
+        "name": "SMK PGRI 1",
+        "regency_id": "3372",
+        "program_of_study": "IPS",
+        "level": "SMA"
+    },
+    {
+        "id": 20,
+        "name": "Sekolah Tinggi Ilmu Kesehatan Kusuma Husada",
+        "regency_id": "3372",
+        "program_of_study": "Keperawatan",
+        "level": "D3"
+    },
+    {
+        "id": 21,
+        "name": "Sekolah Tinggi Manajemen Informasi Komputer Sinar Nusantara",
+        "regency_id": "3372",
+        "PRDDI": "Komputerisasi Akuntansi",
+        "level": "D3"
+    },
+    {
+        "id": 22,
+        "name": "Sekolah Tinggi Ilmu Ekonomi St. Pignatelli",
+        "regency_id": "3372",
+        "program_of_study": "Ekonomi",
+        "level": "S1"
+    },
+    {
+        "id": 23,
+        "name": "SMAN 4",
+        "regency_id": "3273",
+        "program_of_study": "IPA",
+        "level": "SMA"
+    },
+    {
+        "id": 24,
+        "name": "SMK Adi Sumarmo",
+        "regency_id": "3372",
+        "program_of_study": "",
+        "level": "SMA"
+    },
+    {
+        "id": 25,
+        "name": "Akademi Keperawatan PPNI",
+        "regency_id": "3372",
+        "program_of_study": "Keperawatan",
+        "level": "D3"
+    },
+    {
+        "id": 26,
+        "name": "Sekolah Tinggi Ilmu Kesehatan 'Aisyiyah",
+        "regency_id": "3372",
+        "program_of_study": "Kebidanan",
+        "level": "D3"
+    },
+    {
+        "id": 27,
+        "name": "Akademi Keperawatan YAPPI",
+        "regency_id": "3314",
+        "program_of_study": "Keperawatan",
+        "level": "D3"
+    },
+    {
+        "id": 28,
+        "name": "Akademi Kebidanan Mamba'ul 'Ulum",
+        "regency_id": "3372",
+        "program_of_study": "Kebidanan",
+        "level": "D3"
+    },
+    {
+        "id": 29,
+        "name": "Universitas Gadjah Mada",
+        "regency_id": "3471",
+        "program_of_study": "Psikologi",
+        "level": "S1"
+    },
+    {
+        "id": 30,
+        "name": "Akademi Keperawatan Tujuh Belas",
+        "regency_id": "3313",
+        "program_of_study": "Keperawatan",
+        "level": "D3"
+    },
+    {
+        "id": 31,
+        "name": "Universitas Ahmad Dahlan",
+        "regency_id": "3471",
+        "program_of_study": "Farmasi",
+        "level": "S1"
+    },
+    {
+        "id": 32,
+        "name": "BPLD Ksatriyan",
+        "regency_id": "3372",
+        "program_of_study": "",
+        "level": "N/A"
+    },
+    {
+        "id": 33,
+        "name": "Akademi Analis Kesehatan Nasional",
+        "regency_id": "3372",
+        "program_of_study": "Analis Kesehatan",
+        "level": "D3"
+    },
+    {
+        "id": 34,
+        "name": "Universitas Setia Budi",
+        "regency_id": "3372",
+        "program_of_study": "Analis Kesehatan",
+        "level": "D3"
+    },
+    {
+        "id": 35,
+        "name": "Sekolah Tinggi Ilmu Kesehatan Nasional",
+        "regency_id": "3372",
+        "program_of_study": "Farmasi",
+        "level": "D3"
+    },
+    {
+        "id": 36,
+        "name": "STM Pancasila",
+        "regency_id": "3372",
+        "program_of_study": "Farmasi",
+        "level": "SMA"
+    },
+    {
+        "id": 37,
+        "name": "Politeknik Kesehatan Kementrian Kesehatan",
+        "regency_id": "3372",
+        "program_of_study": "Keperawatan",
+        "level": "D3"
+    },
+    {
+        "id": 38,
+        "name": "SMPN 14",
+        "regency_id": "3372",
+        "program_of_study": "N/A",
+        "level": "SMP"
+    },
+    {
+        "id": 39,
+        "name": "Universitas Muhammadiyah",
+        "regency_id": "3372",
+        "program_of_study": "Pendidikan Akuntansi",
+        "level": "S1"
+    },
+    {
+        "id": 40,
+        "name": "Politeknik Kesehatan Bhakti Mulia",
+        "regency_id": "3372",
+        "program_of_study": "Keperawatan",
+        "level": "D3"
+    },
+    {
+        "id": 41,
+        "name": "SMK Muhammadiyah 3 Gemolong",
+        "regency_id": "3314",
+        "program_of_study": "Keuangan Akuntansi",
+        "level": "SMA"
+    },
+    {
+        "id": 42,
+        "name": "SMK Kristen 2",
+        "regency_id": "3314",
+        "program_of_study": "Otomotif",
+        "level": "SMA"
+    },
+    {
+        "id": 43,
+        "name": "SD 03 Sidomulyo",
+        "regency_id": "3306",
+        "program_of_study": "N/A",
+        "level": "N/A"
+    },
+    {
+        "id": 44,
+        "name": "Universitas Islam Batik",
+        "regency_id": "3372",
+        "program_of_study": "Ekonomi Akuntansi",
+        "level": "S1"
+    },
+    {
+        "id": 45,
+        "name": "SMK Teknik Komputer",
+        "regency_id": "3372",
+        "program_of_study": "Teknik Komputer",
+        "level": "SMA"
+    },
+    {
+        "id": 46,
+        "name": "Universitas Slamet Riyadi",
+        "regency_id": "3372",
+        "program_of_study": "Manajemen Ekonomi",
+        "level": "S1"
+    },
+    {
+        "id": 47,
+        "name": "SMA Bangun Tapan",
+        "regency_id": "3471",
+        "program_of_study": "IPA",
+        "level": "SMA"
+    },
+    {
+        "id": 48,
+        "name": "UMS",
+        "regency_id": "3372",
+        "program_of_study": "Keperawatan",
+        "level": "S1"
+    }
+]

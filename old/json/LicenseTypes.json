@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "Name": "Surat Izin Praktek / Surat Tanda Registrasi"
+  },
+  {
+    "Id": 2,
+    "Name": "Surat Izin Praktek Dokter / Dokter Gigi"
+  },
+  {
+    "Id": 3,
+    "Name": "Surat Tanda Registrasi Tenaga Teknis Kefarmasian"
+  },
+  {
+    "Id": 4,
+    "Name": "Surat Izin Kerja Tenaga Teknis Kefarmasian"
+  },
+  {
+    "Id": 5,
+    "Name": "Surat Izin Kerja Bidan"
+  },
+  {
+    "Id": 6,
+    "Name": "Surat Izin Kerja Perawat"
+  },
+  {
+    "Id": 7,
+    "Name": "Surat Izin Kerja Perekam Medis"
+  },
+  {
+    "Id": 8,
+    "Name": "Surat Izin Mengemudi"
+  },
+  {
+    "Id": 9,
+    "Name": "Surat Izin Praktek Apoteker"
+  },
+  {
+    "Id": 10,
+    "Name": "Surat Tanda Registrasi Apoteker"
+  },
+  {
+      "Id": 11,
+      "Name": "Surat Tanda Registrasi Perekam Medis"
+  },
+  {
+      "Id": 12,
+      "Name": "Surat Izin Perawat / Surat Tanda Registrasi"
+  },
+  {
+      "Id": 13,
+      "Name": "Surat Izin Bidan / Surat Tanda Registrasi"
+  }
+]

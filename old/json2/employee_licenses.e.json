@@ -1,0 +1,122 @@
+[
+  {
+    "employee_id" : "Nur'aini Andarwati",
+    "license_type_id": 6,
+    "number": "449/0061/L-09/SIK-P/I/2017",
+    "expiry": "2020-06-01"
+  },
+  {
+    "person_name" : "Nur'aini Andarwati",
+    "license_type_id": 12,
+    "number": "14 01 7 2 1 15-1089697",
+    "expiry": null
+  },
+  {
+    "person_name" : "Annisa Fattih Nur Husna",
+    "license_type_id": 7,
+    "number": "449.2/040/SIKRM/2015",
+    "expiry": "2019-02-14"
+  },
+  {
+    "person_name" : "Annisa Fattih Nur Husna",
+    "license_type_id": 11,
+    "number": "14 10 5 2 1 14-0748158",
+    "expiry": null
+  },
+  {
+    "person_name": "Tri Wahyu Dewi Permatasari",
+    "license_type_id": 9,
+    "number": "19920315/SIPA_33.72/2016/2081",
+    "expiry": "2020-03-15"
+  },
+  {
+    "person_name": "Tri Wahyu Dewi Permatasari",
+    "license_type_id": 10,
+    "number": "19920315/STRA-UAD/2015/241161",
+    "expiry": "2020-03-15"
+  },
+  {
+    "person_name": "Ridho Putri Mulyani",
+    "license_type_id": 6,
+    "number": "449/0063/L-09/SIK-P/I/2016",
+    "expiry": "2019-01-14"
+  },
+  {
+    "person_name": "Ridho Putri Mulyani",
+    "license_type_id": "SIP/STR",
+    "number": "14 01 5 2 1 15-1062103",
+    "expiry": "2019-01-14"
+  },
+  {
+    "person_name": "Feni Kurniawati",
+    "license_type_id": 5,
+    "number": "449/0056/L-11/SIK-B/I/2017",
+    "expiry": "2019-05-20"
+  },
+  {
+    "person_name": "Feni Kurniawati",
+    "license_type_id": 13,
+    "number": "14 02 5 2 1 14-0848676",
+    "expiry": null
+  },
+  {
+    "person_name": "Muslivania Bibi",
+    "license_type_id": 4,
+    "number": "19951118/SIKTTK_33.72/2014/2081",
+    "expiry": "2018-11-18"
+  },
+  {
+    "person_name": "Muslivania Bibi",
+    "license_type_id": 3,
+    "number": "19951118/STRTTK-332013/212499",
+    "expiry": "2018-11-18"
+  },
+  {
+    "person_name": "Wahyu Kurniawati",
+    "license_type_id": 6,
+    "number": "449/1845/L-09/SIK-P/XI/2017",
+    "expiry": "2018-11-30"
+  },
+  {
+    "person_name": "Wahyu Kurniawati",
+    "license_type_id": 12,
+    "number": "1329/MTKP JATENG/S.KET/IX/2017",
+    "expiry": null
+  },
+  {
+    "person_name": "Rika Duwi Hidayat",
+    "license_type_id": 6,
+    "number": "449/1843/L-09/SIK-P/XI/2017",
+    "expiry": "2018-11-30"
+  },
+  {
+    "person_name": "Rika Duwi Hidayat",
+    "license_type_id": 12,
+    "number": "1328/MTKP JATENG/S.KET/IX/2017",
+    "expiry": null
+  },
+  {
+    "person_name": "Ratri Anugrah Kristini",
+    "license_type_id": 6,
+    "number": "449/1844/L-09/SIK-P/XI/2017",
+    "expiry": "2018-11-30"
+  },
+  {
+    "person_name": "Ratri Anugrah Kristini",
+    "license_type_id": 12,
+    "number": "1327/MTKP JATENG/S.KET/IX/2017",
+    "expiry": null
+  },
+  {
+    "person_name": "Hendrastutik",
+    "license_type_id": 2,
+    "number": "33724.57143/DS/02/449.1/1017/12/2017",
+    "expiry": "2023-04-19"
+  },
+  {
+    "person_name": "Hendrastutik",
+    "license_type_id": 1,
+    "number": "33.2.1.604.3.17.108552",
+    "expiry": "2023-04-19"
+  }
+]

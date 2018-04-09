@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Security"
+    },
+    {
+        "id": 2,
+        "name": "Logistic"
+    },
+    {
+        "id": 3,
+        "name": "Medical Record"
+    },
+    {
+        "id": 4,
+        "name": "Cleaning Service"
+    },
+    {
+        "id": 5,
+        "name": "Gizi dan Minimarket"
+    },
+    {
+        "id": 6,
+        "name": "Customer Service"
+    },
+    {
+        "id": 7,
+        "name": "Nurse"
+    },
+    {
+        "id": 8,
+        "name": "Midwife"
+    },
+    {
+        "id": 9,
+        "name": "General Practitioners"
+    },
+    {
+        "id": 10,
+        "name": "Finance"
+    },
+    {
+        "id": 11,
+        "name": "General Affair"
+    },
+    {
+        "id": 12,
+        "name": "Pharmacist Assistant"
+    },
+    {
+        "id": 13,
+        "name": "Cleaning Service"
+    },
+    {
+        "id": 14,
+        "name": "Customer Service"
+    },
+    {
+        "id": 15,
+        "name": "Keperawatan dan Pendidikan"
+    },
+    {
+        "id": 16,
+        "name": "Gardener"
+    },
+    {
+        "id": 17,
+        "name": "MPO"
+    },
+    {
+        "id": 18,
+        "name": "Pharmacist"
+    },
+    {
+        "id": 19,
+        "name": "Laboratory"
+    },
+    {
+        "id": 20,
+        "name": "Engineering"
+    },
+    {
+        "id": 21,
+        "name": "Costruction Project"
+    },
+    {
+        "id": 22,
+        "name": "Driver"
+    },
+    {
+        "id": 23,
+        "name": "HRD"
+    },
+    {
+        "id": 24,
+        "name": "IT"
+    },
+    {
+        "id": 25,
+        "name": "Accounting"
+    }
+]
